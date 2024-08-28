@@ -1,0 +1,3 @@
+Customer: I'm looking for a sedan with an automatic transmission. Do you have any petrol options and ran below 5000 km?
+Salesperson: Yes, we have a few. What color are you interested in?
+Customer: I prefer a white car. Also, it should be a recent model, ideally 2022 or 2023 and need a 5-DayMoney Back Guarantee.
